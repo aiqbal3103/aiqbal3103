@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Backend Development
 - 🏫 *Informatics Engineering* at University of Palangka Raya
 - 💫 *"Never give up, keep improving!"*
-<a href="https://www.instagram.com/_jrdrwan/">
+<a href="https://www.instagram.com/ahmad_iqbal3103/">
   <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
@@ -32,7 +32,7 @@
   <tr border="0">
     <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=jrdrwn&show_icons=true&theme=blueberry&hide_border=true&show_icons=true" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jrdrwn&theme=blueberry&hide_border=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aiqbal3103&theme=blueberry&hide_border=true" />
     </td>
     <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrdrwn&langs_count=6&theme=blueberry&hide_border=true" /></a>
