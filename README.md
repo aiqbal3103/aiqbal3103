@@ -1,30 +1,41 @@
-### HII MINAAA 👋
+<h1 align="center">
+  <b>👋 Assalamu'alaikum 👋</b>
+</h1>
 
-<!--
-**aiqbal3103/aiqbal3103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Backend Development
+- 🏫 *Informatics Engineering* at University of Palangka Raya
+- 💫 *"Never give up, keep improving!"*
+<a href="https://www.instagram.com/_jrdrwan/">
+  <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
-.container {
-  --color-main: #ef476f;
-  --color-primary: #ffd166;
-  --color-secondary: #06d6a0;
-  --color-tertiary: #118ab2;
+<br><br>
 
-  background: linear-gradient(
-    -45deg,
-    var(--color-main),
-    var(--color-primary),
-    var(--color-secondary),
-    var(--color-tertiary)
-  );
+<h2 align="center">👨‍💻 Tools 👨‍💻</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=Yarn&logoColor=white" />
+  <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=VisualStudioCode" />
+  <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/stack%20overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+</p>
+<br><br>
 
-  //...
-}
+<h2 align="center">📊 Statistics 📊</h2>
 
-@media (prefers-color-scheme: light) {
-  .container {
-    --color-main: #ffc8dd;
-    --color-primary: #ffafcc;
-    --color-secondary: #bde0fe;
-    --color-tertiary: #a2d2ff;
-  }
-}
+<table border="0" align="center">
+  <tr border="0">
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=jrdrwn&show_icons=true&theme=blueberry&hide_border=true&show_icons=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jrdrwn&theme=blueberry&hide_border=true" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrdrwn&langs_count=6&theme=blueberry&hide_border=true" /></a>
+    </td>
+  </tr>
+</table>
